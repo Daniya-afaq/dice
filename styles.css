@@ -1,0 +1,36 @@
+body{
+  background-color: #2C2E43;
+text-align: center;
+margin-top: 5rem;
+color: #B2B1B9;
+
+}
+h1{
+  margin: 30px;
+  font-size: 90px;
+  text-shadow: 5px 0 #232931;
+}
+
+p{
+  margin: 30px;
+  font-size: 30px;
+}
+.container{
+  font-family: 'Itim', cursive;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice{
+  text-align: center;
+  display:inline-block;
+
+}
+img {
+  width: 80%;
+}
+
+footer{
+  margin-top: 50px;
+}
